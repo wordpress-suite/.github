@@ -2,7 +2,7 @@
 
 Welcome to **WordPress Suite**, your hub for downloading premium WordPress plugins for **educational and testing purposes**. We believe in empowering developers, learners, and testers with access to top plugins to explore their features before committing to premium licenses.
 
----
+![WordPress Suite Banner](https://github.com/wordpress-suite/.github/blob/main/wordpress_logo.jpg?raw=true)
 
 ## 🚀 **What is WordPress Suite?**
 
