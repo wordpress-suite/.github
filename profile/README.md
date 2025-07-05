@@ -24,14 +24,8 @@ WordPress Suite is an open repository sharing popular **WordPress pro plugins** 
 - [WooCommerce Bookings](https://github.com/wordpress-suite/woocommerce-bookings)  
   Add booking functionality to your WooCommerce store.
 
-- [Elementor Pro](https://github.com/wordpress-suite/elementor-pro)  
-  The leading page builder with pro widgets and templates.
-
-- [WP Rocket](https://github.com/wordpress-suite/wp-rocket)  
-  Speed up your website with advanced caching.
-
-- [Yoast SEO Premium](https://github.com/wordpress-suite/yoast-seo-premium)  
-  Boost your site’s SEO with premium features.
+- [WP Safelink Pro](https://github.com/wordpress-suite/wp-safelink-pro)  
+  The leading link monetizer for WordPress.
 
 *(More plugins added regularly. Check our repositories for the latest uploads.)*
 
