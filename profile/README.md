@@ -18,7 +18,7 @@ WordPress Suite is an open repository sharing popular **WordPress pro plugins** 
 
 ### 🎯 **Featured Plugins**
 
-- [Gravity Forms Pro](https://github.com/wordpress-suite/gravity-forms-pro)  
+- [Gravity Forms](https://github.com/wordpress-suite/gravity-forms)  
   Advanced forms plugin for any site needs.
 
 - [WooCommerce Bookings](https://github.com/wordpress-suite/woocommerce-bookings)  
